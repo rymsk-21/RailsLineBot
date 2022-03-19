@@ -1,0 +1,15 @@
+current directory: /Users/sekiryoma/Desktop/rails-hotel-search-line-bot/vendor/bundle/ruby/3.1.0/gems/websocket-driver-0.7.5/ext/websocket-driver
+/Users/sekiryoma/.rbenv/versions/3.1.1/bin/ruby -I /Users/sekiryoma/.rbenv/versions/3.1.1/lib/ruby/3.1.0 -r ./siteconf20220319-82471-kzxch3.rb extconf.rb
+creating Makefile
+
+current directory: /Users/sekiryoma/Desktop/rails-hotel-search-line-bot/vendor/bundle/ruby/3.1.0/gems/websocket-driver-0.7.5/ext/websocket-driver
+make DESTDIR\= clean
+
+current directory: /Users/sekiryoma/Desktop/rails-hotel-search-line-bot/vendor/bundle/ruby/3.1.0/gems/websocket-driver-0.7.5/ext/websocket-driver
+make DESTDIR\=
+compiling websocket_mask.c
+linking shared-object websocket_mask.bundle
+
+current directory: /Users/sekiryoma/Desktop/rails-hotel-search-line-bot/vendor/bundle/ruby/3.1.0/gems/websocket-driver-0.7.5/ext/websocket-driver
+make DESTDIR\= install
+/usr/bin/install -c -m 0755 websocket_mask.bundle ./.gem.20220319-82471-dn6oyq
