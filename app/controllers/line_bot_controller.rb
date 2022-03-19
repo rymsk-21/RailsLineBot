@@ -161,6 +161,7 @@ class LineBotController < ApplicationController
     }
   end
 
+
   def set_footer(hotel)
     {
       type: 'box',
